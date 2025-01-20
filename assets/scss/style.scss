@@ -1,5 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+/* 
+* Deephtml - Html boilerplate 
+* Author: Md Abdur Rahman
+* licensed under MIT
+*/
+body, html {
+    height: 100%;
+}
+.center-card {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
